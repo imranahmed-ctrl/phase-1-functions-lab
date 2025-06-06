@@ -36,13 +36,3 @@ function calculatesFarePrice(start, destination) {
     return 'cannot travel that far';
   }
 }
-
-
-
-const age =30;
-
-let isAdult;
-
-if (age>=18) {
-  isAdult= true;
-}
